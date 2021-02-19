@@ -19,3 +19,7 @@ Table of Contents
         3)Word Clouds for Quantified Self(QS)
         4)Word Clouds (removing frequency words)(stopwords)
     Sentiment Analysis 
+    
+    
+    You can see my presentation for the visualizations.
+    https://prezi.com/view/qwZ15ZXhcpgg16nz3690/
